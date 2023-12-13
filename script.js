@@ -3,7 +3,7 @@
 //let nombre = "Selwin";
 //console.log(nombre);
 
-let contenidoTitulo = "nombre";
+//let contenidoTitulo = "nombre";
 
 let titulo = document.querySelector("p");
 titulo.innerHTML = contenidoTitulo;
