@@ -5,9 +5,9 @@
 
 //let contenidoTitulo = "nombre";
 
-let titulo = document.querySelector("p");
-titulo.innerHTML = contenidoTitulo;
-console.log(titulo);
+//let titulo = document.querySelector("p");
+//titulo.innerHTML = contenidoTitulo;
+//console.log(titulo);
 
 
 //let textoTitulo = titulo.innerText;
